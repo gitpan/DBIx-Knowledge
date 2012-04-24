@@ -1,4 +1,4 @@
-DBIx-Knowledge version 1.12
+DBIx-Knowledge version 1.13
 ===========================
 
 DBIx::Knowledge provides a Business Intelligence framework to
@@ -37,7 +37,7 @@ This module requires these other modules and libraries:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2005-2008 Reed Sandberg
+Copyright (C) 2005-2012 Reed Sandberg
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.

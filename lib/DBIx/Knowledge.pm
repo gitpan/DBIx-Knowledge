@@ -10,12 +10,14 @@ use Exporter;
 
 use vars qw( $REPORT_TOTAL_KEY $VERSION );
 
-$VERSION = '1.12';
+$VERSION = '1.13';
 
 $REPORT_TOTAL_KEY = 'REPORT_TOTAL';
 
 
 our @EXPORT_OK = qw( $REPORT_TOTAL_KEY );
+
+our @ISA = qw(Exporter);
 
 =head1 NAME
 

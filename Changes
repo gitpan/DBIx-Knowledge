@@ -1,5 +1,8 @@
 Revision history for Perl extension DBIx::Knowledge.
 
+1.13  Wed Apr 18 15:21:58 PDT 2012
+	- Minor fix with Knowledge.pm exports
+
 1.12  Fri Jul 25 20:43:55 PDT 2008
 	- First public release
 
